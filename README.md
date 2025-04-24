@@ -217,12 +217,11 @@ hills.html
 
 
 ## OUTPUT
-(<Screenshot 2025-04-24 055715.png>)
 ![alt text](<Screenshot 2025-04-24 055737.png>)
 ![alt text](<Screenshot 2025-04-24 055759.png>)
-(<Screenshot 2025-04-24 055820.png>)
 ![alt text](<Screenshot 2025-04-24 055835.png>)
-
+![alt text](<Screenshot 2025-04-24 055715-4.png>)
+![alt text](<Screenshot 2025-04-24 055820-3.png>)
 
 
 
